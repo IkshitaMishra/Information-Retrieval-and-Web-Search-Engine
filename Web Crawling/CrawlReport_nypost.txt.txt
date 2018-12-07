@@ -1,0 +1,42 @@
+Name: Ikshita Mishra
+USC ID: 3252412986
+New Sites Crawled : https://nypost.com/
+
+Fetch Statistics: 
+================
+# fetches attempted: 19987
+# fetches succeeded: 15379
+# fetches failed or aborted: 4608
+
+Outgoing URLs: 
+=============
+Total URLs extracted: 2733357
+# unique URLs extracted: 14727
+# unique URLs within News Site: 6382
+# unique URLs outside News Site: 8345
+
+Status Codes: 
+============
+200 OK: 15379
+301 Moved Permanently: 1648
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 2
+
+File Sizes: 
+============
+< 1 KB: 0
+1 KB ~ <10 KB: 123
+10 KB ~ <100 KB: 1205
+100 KB ~ < 1MB: 14051
+>= 1MB: 0
+
+Content Types: 
+============
+text/html: 14727
+image/gif: 0
+image/jpeg:0
+image/png: 0
+application/pdf: 0
+
+application/rss+xml: 652
